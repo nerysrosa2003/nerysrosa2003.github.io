@@ -5,7 +5,7 @@ image: https://macmillancdn.appspot.com/wp-content/uploads/2014/01/Lysistrata-Fe
 sidetxt: LYSISTRATA the feature film is now available for $100 USD
 paypall-id: ZE34FNZFYQ88C
 published: true
-title: Lysistrata Feature Film
+title: pera pera
 permalink: /programs/lysistrata-feature-film/
 date: '2014-01-02 11:27:29 -0500'
 date_gmt: '2014-01-02 16:27:29 -0500'
