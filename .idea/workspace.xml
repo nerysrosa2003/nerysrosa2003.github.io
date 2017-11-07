@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" afterPath="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs/lysistrata-staging.markdown" afterPath="$PROJECT_DIR$/programs/lysistrata-staging.markdown" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="lysistrata-documentary.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lysistrata-documentary.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programs/lysistrata-documentary.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lysistrata-staging.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programs/lysistrata-staging.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,16 +83,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/educational-mission/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="99" column="104" lean-forward="false" selection-start-line="99" selection-start-column="104" selection-end-line="99" selection-end-column="104" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="jquery.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/wp-includes/js/jquery/jquery.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -125,6 +125,7 @@
       <find>nerys coco nerys</find>
       <find>education</find>
       <find>kiko al</find>
+      <find>Clinton shows, the answer</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,6 +154,7 @@
         <option value="$PROJECT_DIR$/educational-mission.markdown" />
         <option value="$PROJECT_DIR$/sitemap.htm" />
         <option value="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" />
+        <option value="$PROJECT_DIR$/programs/lysistrata-staging.markdown" />
       </list>
     </option>
   </component>
@@ -641,6 +643,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/lysistrata-staging.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
