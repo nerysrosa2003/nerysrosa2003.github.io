@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/store/index.html" afterPath="$PROJECT_DIR$/_site/store/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/educational-mission/index.html" afterPath="$PROJECT_DIR$/_site/educational-mission/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/cyclops/index.html" afterPath="$PROJECT_DIR$/_site/programs/cyclops/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/lysistrata-documentary/index.html" afterPath="$PROJECT_DIR$/_site/programs/lysistrata-documentary/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/lysistrata-feature-film/index.html" afterPath="$PROJECT_DIR$/_site/programs/lysistrata-feature-film/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/lysistrata-staging/index.html" afterPath="$PROJECT_DIR$/_site/programs/lysistrata-staging/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/prometheus-bound/index.html" afterPath="$PROJECT_DIR$/_site/programs/prometheus-bound/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/the-bacchae/index.html" afterPath="$PROJECT_DIR$/_site/programs/the-bacchae/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/western-philosophy/index.html" afterPath="$PROJECT_DIR$/_site/programs/western-philosophy/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
