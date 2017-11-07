@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/lysistrata-documentary/index.html" afterPath="$PROJECT_DIR$/_site/programs/lysistrata-documentary/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" afterPath="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/store/index.html" afterPath="$PROJECT_DIR$/_site/store/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sitemap.htm" afterPath="$PROJECT_DIR$/sitemap.htm" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/educational-mission/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="103" column="135" lean-forward="false" selection-start-line="103" selection-start-column="135" selection-end-line="103" selection-end-column="135" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/programs/cyclops/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -94,7 +84,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lysistrata-documentary.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="lysistrata-documentary.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programs/lysistrata-documentary.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
@@ -105,10 +95,20 @@
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/programs/antigone/index.html">
+        <entry file="file://$PROJECT_DIR$/_site/store/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="99" column="129" lean-forward="false" selection-start-line="99" selection-start-column="129" selection-end-line="99" selection-end-column="129" />
+            <state relative-caret-position="287">
+              <caret line="99" column="105" lean-forward="false" selection-start-line="99" selection-start-column="105" selection-end-line="99" selection-end-column="105" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sitemap.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sitemap.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="42" column="120" lean-forward="false" selection-start-line="42" selection-start-column="120" selection-end-line="42" selection-end-column="120" />
               <folding />
             </state>
           </provider>
@@ -120,6 +120,7 @@
     <findStrings>
       <find>rata document</find>
       <find>pushes boundaries on female leade</find>
+      <find>lysistrata-documentary</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,6 +144,8 @@
         <option value="$PROJECT_DIR$/_site/programs/the-bacchae/index.html" />
         <option value="$PROJECT_DIR$/_site/programs/the-oresteia/index.html" />
         <option value="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" />
+        <option value="$PROJECT_DIR$/_site/store/index.html" />
+        <option value="$PROJECT_DIR$/sitemap.htm" />
       </list>
     </option>
   </component>
@@ -260,6 +263,12 @@
               <item name="_site" type="462c0819:PsiDirectoryNode" />
               <item name="programs" type="462c0819:PsiDirectoryNode" />
               <item name="the-oresteia" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_site" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -542,6 +551,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/store/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="99" column="105" lean-forward="false" selection-start-line="99" selection-start-column="105" selection-end-line="99" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="42" column="120" lean-forward="false" selection-start-line="42" selection-start-column="120" selection-end-line="42" selection-end-column="120" />
           <folding />
         </state>
       </provider>
