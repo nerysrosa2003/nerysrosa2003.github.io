@@ -6,7 +6,7 @@ image: https://macmillancdn.appspot.com/images/3DLysistrataDocwithRearSm.jpg
 sidetxt: This PBS Documentary focuses on the provocative ideas in Aristophanes' classic Greek play Lysistrata. This comedy about a sex strike to end war, presages the rise of female leadership from a joke towards a necessary reality. Insightful interviews with prominent theater scholars and female leaders expose the ancient connections among violence, sex, drama, and politics. Price $100
 paypall-id: YST9ERU2LTCQE
 published: true
-title: Lysistrata Documentary
+title: kiko al fin Documentary
 author:
   display_name: admin
   login: admin
