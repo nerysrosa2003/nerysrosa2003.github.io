@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/antigone/index.html" afterPath="$PROJECT_DIR$/_site/programs/antigone/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/cyclops/index.html" afterPath="$PROJECT_DIR$/_site/programs/cyclops/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/lysistrata-documentary/index.html" afterPath="$PROJECT_DIR$/_site/programs/lysistrata-documentary/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/lysistrata-feature-film/index.html" afterPath="$PROJECT_DIR$/_site/programs/lysistrata-feature-film/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/lysistrata-staging/index.html" afterPath="$PROJECT_DIR$/_site/programs/lysistrata-staging/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/prometheus-bound/index.html" afterPath="$PROJECT_DIR$/_site/programs/prometheus-bound/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/the-bacchae/index.html" afterPath="$PROJECT_DIR$/_site/programs/the-bacchae/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/programs/the-oresteia/index.html" afterPath="$PROJECT_DIR$/_site/programs/the-oresteia/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" afterPath="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/educational-mission/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -100,11 +84,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_site/programs/the-oresteia/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="99" column="130" lean-forward="false" selection-start-line="99" selection-start-column="130" selection-end-line="99" selection-end-column="130" />
+            <state relative-caret-position="34">
+              <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lysistrata-documentary.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programs/lysistrata-documentary.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -125,6 +119,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>rata document</find>
+      <find>pushes boundaries on female leade</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -147,6 +142,7 @@
         <option value="$PROJECT_DIR$/_site/programs/prometheus-bound/index.html" />
         <option value="$PROJECT_DIR$/_site/programs/the-bacchae/index.html" />
         <option value="$PROJECT_DIR$/_site/programs/the-oresteia/index.html" />
+        <option value="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" />
       </list>
     </option>
   </component>
@@ -269,6 +265,11 @@
               <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="programs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
@@ -531,8 +532,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_site/programs/the-oresteia/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="99" column="130" lean-forward="false" selection-start-line="99" selection-start-column="130" selection-end-line="99" selection-end-column="130" />
+        <state relative-caret-position="34">
+          <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/lysistrata-documentary.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
           <folding />
         </state>
       </provider>
