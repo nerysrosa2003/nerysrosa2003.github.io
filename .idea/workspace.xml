@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/educational-mission.markdown" afterPath="$PROJECT_DIR$/pera.markdown" />
+      <change beforePath="$PROJECT_DIR$/_layouts/product.html" afterPath="$PROJECT_DIR$/_layouts/product.html" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/wp-content/themes/macmillan-twentythirteen/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/wp-content/themes/twentythirteen/js/functions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/wp-content/uploads/2014/07/cropped-TANYA_CLYTEMNESTRA_HiRez.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/wp-includes/js/jquery/jquery-migrate.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_site/wp-includes/js/jquery/jquery.js" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,41 +19,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="dos.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paco1/dos.markdown">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/store/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="23" />
+            <state relative-caret-position="761">
+              <caret line="82" column="40" lean-forward="false" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_site/programs999/cyclops/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+            <state relative-caret-position="-1345">
+              <caret line="99" column="129" lean-forward="false" selection-start-line="99" selection-start-column="129" selection-end-line="99" selection-end-column="129" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tres.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Paco1/tres.markdown">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_site/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="237">
+              <caret line="106" column="8" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pera.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pera.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pera.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+              <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -106,8 +112,8 @@
       <file leaf-file-name="product.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_layouts/product.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="619">
-              <caret line="50" column="43" lean-forward="false" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+            <state relative-caret-position="687">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,7 +171,6 @@
         <option value="$PROJECT_DIR$/_site/programs/prometheus-bound/index.html" />
         <option value="$PROJECT_DIR$/_site/programs/the-bacchae/index.html" />
         <option value="$PROJECT_DIR$/_site/programs/the-oresteia/index.html" />
-        <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/index.markdown" />
         <option value="$PROJECT_DIR$/sitemap.htm" />
         <option value="$PROJECT_DIR$/_site/store/index.html" />
@@ -176,6 +181,8 @@
         <option value="$PROJECT_DIR$/programs/lysistrata-staging.markdown" />
         <option value="$PROJECT_DIR$/_site/educational-mission/index.html" />
         <option value="$PROJECT_DIR$/educational-mission.markdown" />
+        <option value="$PROJECT_DIR$/_layouts/product.html" />
+        <option value="$PROJECT_DIR$/_site/index.html" />
       </list>
     </option>
   </component>
@@ -214,6 +221,11 @@
             <path>
               <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -231,21 +243,7 @@
               <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs999" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs999" type="462c0819:PsiDirectoryNode" />
-              <item name="lysistrata-staging" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs999" type="462c0819:PsiDirectoryNode" />
-              <item name="prometheus-bound" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -494,14 +492,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/programs999/cyclops/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="99" column="129" lean-forward="false" selection-start-line="99" selection-start-column="129" selection-end-line="99" selection-end-column="129" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/programs999/lysistrata-documentary/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -538,14 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="39" column="235" lean-forward="false" selection-start-line="39" selection-start-column="235" selection-end-line="39" selection-end-column="235" />
           <folding />
         </state>
       </provider>
@@ -601,14 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/store/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1394">
-          <caret line="82" column="40" lean-forward="false" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -733,14 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/product.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
-          <caret line="50" column="43" lean-forward="false" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/educational-mission777/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -768,7 +734,39 @@
     <entry file="file://$PROJECT_DIR$/pera.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="36" lean-forward="false" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="687">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/store/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="761">
+          <caret line="82" column="40" lean-forward="false" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/programs999/cyclops/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1345">
+          <caret line="99" column="129" lean-forward="false" selection-start-line="99" selection-start-column="129" selection-end-line="99" selection-end-column="129" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="106" column="8" lean-forward="false" selection-start-line="106" selection-start-column="8" selection-end-line="106" selection-end-column="8" />
           <folding />
         </state>
       </provider>
