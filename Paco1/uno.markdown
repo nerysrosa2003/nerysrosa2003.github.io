@@ -6,7 +6,7 @@ image: https://macmillancdn.appspot.com/images/3DLysistrataDocwithRearSm.jpg
 sidetxt: comen3
 paypall-id: YST9ERU2LTCQE
 published: true
-title: coco2 my title 2
+title: coco3 my title 33333
 author:
   display_name: admin
   login: admin

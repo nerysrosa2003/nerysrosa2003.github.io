@@ -6,7 +6,7 @@ image: https://macmillancdn.appspot.com/wp-content/uploads/2013/08/LYSISTRATAcom
 sidetxt: comen2
 paypall-id: R5HDRKDH7TNH8
 published: true
-title: coco3 my title 3
+title: coco2 my title 2
 author:
   display_name: admin
   login: admin
