@@ -25,9 +25,10 @@ tags: []
 ---
 este es el video uno
 
-<iframe src="//www.youtube.com/embed/hOOJ1Emr0LI?rel=0&amp;modestbranding=1&amp;autohide=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qP1otWf9ER4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ested el video  dos
 
-<iframe src="//www.youtube.com/embed/hOOJ1Emr0LI?rel=0&amp;modestbranding=1&amp;autohide=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qP1otWf9ER4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
