@@ -1,28 +1,7 @@
 ---
 layout: default
 ---
-<span hidden>
-	<div itemscope itemtype="http://schema.org/Product">
-	  <span itemprop="brand">Macmillan Films</span>
-	  <span itemprop="name">{{ page.title }}</span>
-	  <img itemprop="image" src="{{ page.image }}" alt="{{ page.title }} Box" />
-	  <span itemprop="description">{{ page.sidetxt }}
-	  </span>
-
-	  <span itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-	    <meta itemprop="priceCurrency" content="USD" />
-	    $<span itemprop="price">{{ page.price }}</span>
-	    Available from: <span itemprop="seller" itemscope itemtype="http://schema.org/Organization">
-	                      <span itemprop="name">Macmillan Films</span>
-	                    </span>
-	    Condition: <link itemprop="itemCondition" href="http://schema.org/UsedCondition"/>New
-	    <link itemprop="availability" href="http://schema.org/InStock"/>In stock! Order now!</span>
-	  </span>
-	</div>
-</span>
 <article id="post" class="page type-page status-publish hentry">
-	<div hidden class="author vcard"><a class="fn">Macmillan Films</a></div>
-	<div hidden class="updated"> {{ site.time }} </div>
 	<header class="entry-header">
 
 		<h1 class="entry-title">{{ page.title }}</h1>
