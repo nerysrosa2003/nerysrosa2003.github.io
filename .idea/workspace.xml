@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/programs/lysistrata-feature-film.markdown" afterPath="$PROJECT_DIR$/programs/lysistrata-feature-film.markdown" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Paco1/dos.markdown" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Paco1/tres.markdown" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
+      <change beforePath="$PROJECT_DIR$/_site/educational-mission/index.html" afterPath="$PROJECT_DIR$/_site/educational-mission777/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/programs/antigone/index.html" afterPath="$PROJECT_DIR$/_site/programs999/antigone/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/programs/cyclops/index.html" afterPath="$PROJECT_DIR$/_site/programs999/cyclops/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/programs/lysistrata-documentary/index.html" afterPath="$PROJECT_DIR$/_site/programs999/lysistrata-documentary/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/programs/lysistrata-feature-film/index.html" afterPath="$PROJECT_DIR$/_site/programs999/lysistrata-feature-film/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/programs/lysistrata-staging/index.html" afterPath="$PROJECT_DIR$/_site/programs999/lysistrata-staging/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/programs/prometheus-bound/index.html" afterPath="$PROJECT_DIR$/_site/programs999/prometheus-bound/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/programs/the-bacchae/index.html" afterPath="$PROJECT_DIR$/_site/programs999/the-bacchae/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/programs/the-oresteia/index.html" afterPath="$PROJECT_DIR$/_site/programs999/the-oresteia/index.html" />
+      <change beforePath="$PROJECT_DIR$/_site/programs/western-philosophy/index.html" afterPath="$PROJECT_DIR$/_site/programs999/western-philosophy/index.html" />
+      <change beforePath="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" afterPath="$PROJECT_DIR$/Paco1/uno.markdown" />
+      <change beforePath="$PROJECT_DIR$/programs/lysistrata-feature-film.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/programs/lysistrata-staging.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/programs/medea.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/programs/prometheus-bound.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/programs/the-bacchae.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/programs/the-oresteia.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/programs/western-philosophy.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/programs/z-antigone.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/programs/z-cyclops.markdown" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,21 +36,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="lysistrata-documentary.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programs/lysistrata-documentary.markdown">
+      <file leaf-file-name="uno.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paco1/uno.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lysistrata-feature-film.markdown" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programs/lysistrata-feature-film.markdown">
+      <file leaf-file-name="dos.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paco1/dos.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+              <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -36,28 +59,28 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            <state relative-caret-position="204">
+              <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <file leaf-file-name="tres.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Paco1/tres.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="493">
+              <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <file leaf-file-name="educational-mission.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/educational-mission.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="51">
+              <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -74,17 +97,27 @@
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/store/index.html">
+        <entry file="file://$PROJECT_DIR$/_site/educational-mission777/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1394">
-              <caret line="82" column="40" lean-forward="false" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
+            <state relative-caret-position="272">
+              <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/_layout.scss">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_site/programs999/lysistrata-staging/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1013">
+              <caret line="140" column="106" lean-forward="false" selection-start-line="140" selection-start-column="106" selection-end-line="140" selection-end-column="106" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="post.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/post.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -93,21 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/css/main.css">
+      <file leaf-file-name="product.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/product.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_site/educational-mission/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1683">
-              <caret line="99" column="104" lean-forward="false" selection-start-line="99" selection-start-column="104" selection-end-line="99" selection-end-column="104" />
+            <state relative-caret-position="619">
+              <caret line="50" column="43" lean-forward="false" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -123,15 +146,20 @@
       <find>lysistrata documentary</find>
       <find>medea</find>
       <find>nerys coco nerys</find>
-      <find>education</find>
       <find>kiko al</find>
       <find>Clinton shows, the answer</find>
       <find>664-0507</find>
-      <find>kikopaco2</find>
       <find>888</find>
       <find>DVD Title Selection</find>
       <find>pera pera</find>
+      <find>kikopaco2</find>
+      <find>sidetxt</find>
+      <find>tertiary</find>
+      <find>coco en elhead</find>
       <find>form</find>
+      <find>educational mi</find>
+      <find>education</find>
+      <find>aside</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,17 +181,17 @@
         <option value="$PROJECT_DIR$/_site/programs/prometheus-bound/index.html" />
         <option value="$PROJECT_DIR$/_site/programs/the-bacchae/index.html" />
         <option value="$PROJECT_DIR$/_site/programs/the-oresteia/index.html" />
-        <option value="$PROJECT_DIR$/_site/educational-mission/index.html" />
         <option value="$PROJECT_DIR$/_site/index.html" />
         <option value="$PROJECT_DIR$/index.markdown" />
         <option value="$PROJECT_DIR$/educational-mission.markdown" />
         <option value="$PROJECT_DIR$/sitemap.htm" />
-        <option value="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" />
-        <option value="$PROJECT_DIR$/programs/lysistrata-staging.markdown" />
         <option value="$PROJECT_DIR$/_site/store/index.html" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
+        <option value="$PROJECT_DIR$/programs/lysistrata-documentary.markdown" />
         <option value="$PROJECT_DIR$/programs/lysistrata-feature-film.markdown" />
+        <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/programs/lysistrata-staging.markdown" />
+        <option value="$PROJECT_DIR$/_site/educational-mission/index.html" />
       </list>
     </option>
   </component>
@@ -202,181 +230,31 @@
             <path>
               <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name=".sass-cache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name=".sass-cache" type="462c0819:PsiDirectoryNode" />
-              <item name="fec933e75bf298c9bbcff43700b0e4bc844b2208" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_layouts" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_sass" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="educational-mission777" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="educational-mission" type="462c0819:PsiDirectoryNode" />
+              <item name="programs999" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-              <item name="antigone" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-              <item name="cyclops" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-              <item name="lysistrata-documentary" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-              <item name="lysistrata-feature-film" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
+              <item name="programs999" type="462c0819:PsiDirectoryNode" />
               <item name="lysistrata-staging" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-              <item name="prometheus-bound" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-              <item name="the-bacchae" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-              <item name="the-oresteia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-includes" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_site" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-includes" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-              <item name="jquery" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="programs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2014" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2014" type="462c0819:PsiDirectoryNode" />
-              <item name="07" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nerysrosa2003.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nerysrosa2003.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="uploads" type="462c0819:PsiDirectoryNode" />
-              <item name="2017" type="462c0819:PsiDirectoryNode" />
-              <item name="03" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -500,7 +378,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -514,7 +391,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15618336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15618336" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -537,7 +414,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programs/lysistrata-documentary.markdown">
+    <entry file="file://$PROJECT_DIR$/Paco1/uno.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
@@ -545,7 +422,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programs/lysistrata-feature-film.markdown">
+    <entry file="file://$PROJECT_DIR$/Paco1/dos.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
@@ -561,7 +438,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programs/lysistrata-staging.markdown">
+    <entry file="file://$PROJECT_DIR$/Paco1/tres.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
@@ -593,7 +470,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/educational-mission/index.html">
+    <entry file="file://$PROJECT_DIR$/_site/educational-mission777/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1683">
           <caret line="99" column="104" lean-forward="false" selection-start-line="99" selection-start-column="104" selection-end-line="99" selection-end-column="104" />
@@ -617,21 +494,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/programs/antigone/index.html">
+    <entry file="file://$PROJECT_DIR$/_site/programs999/antigone/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="99" column="129" lean-forward="false" selection-start-line="99" selection-start-column="129" selection-end-line="99" selection-end-column="129" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/programs/cyclops/index.html">
+    <entry file="file://$PROJECT_DIR$/_site/programs999/cyclops/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="99" column="129" lean-forward="false" selection-start-line="99" selection-start-column="129" selection-end-line="99" selection-end-column="129" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/programs/lysistrata-documentary/index.html">
+    <entry file="file://$PROJECT_DIR$/_site/programs999/lysistrata-documentary/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="99" column="129" lean-forward="false" selection-start-line="99" selection-start-column="129" selection-end-line="99" selection-end-column="129" />
@@ -639,38 +518,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/programs/lysistrata-feature-film/index.html">
+    <entry file="file://$PROJECT_DIR$/_site/programs999/lysistrata-feature-film/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="99" column="129" lean-forward="false" selection-start-line="99" selection-start-column="129" selection-end-line="99" selection-end-column="129" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/programs/lysistrata-staging/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="99" column="130" lean-forward="false" selection-start-line="99" selection-start-column="130" selection-end-line="99" selection-end-column="130" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_site/programs/prometheus-bound/index.html">
+    <entry file="file://$PROJECT_DIR$/_site/programs999/prometheus-bound/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="99" column="129" lean-forward="false" selection-start-line="99" selection-start-column="129" selection-end-line="99" selection-end-column="129" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/programs/the-bacchae/index.html">
+    <entry file="file://$PROJECT_DIR$/_site/programs999/the-bacchae/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="99" column="128" lean-forward="false" selection-start-line="99" selection-start-column="128" selection-end-line="99" selection-end-column="128" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/programs/the-oresteia/index.html">
+    <entry file="file://$PROJECT_DIR$/_site/programs999/the-oresteia/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="74" column="47" lean-forward="false" selection-start-line="74" selection-start-column="47" selection-end-line="74" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -697,13 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/educational-mission.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/search.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -715,6 +584,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="364">
           <caret line="41" column="90" lean-forward="false" selection-start-line="41" selection-start-column="90" selection-end-line="41" selection-end-column="90" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -722,14 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/lysistrata-staging.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -758,34 +620,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_site/educational-mission/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1683">
-          <caret line="99" column="104" lean-forward="false" selection-start-line="99" selection-start-column="104" selection-end-line="99" selection-end-column="104" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_site/store/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1394">
           <caret line="82" column="40" lean-forward="false" selection-start-line="82" selection-start-column="40" selection-end-line="82" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programs/lysistrata-documentary.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="11" lean-forward="false" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -806,6 +644,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Paco1/uno.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="74" lean-forward="true" selection-start-line="12" selection-start-column="74" selection-end-line="12" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/z-cyclops.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/z-antigone.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/western-philosophy.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/the-oresteia.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/the-bacchae.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/prometheus-bound.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programs/medea.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paco1/dos.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Paco1/tres.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="1" lean-forward="false" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/educational-mission.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -814,10 +748,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programs/lysistrata-feature-film.markdown">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/product.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="50" column="43" lean-forward="false" selection-start-line="50" selection-start-column="43" selection-end-line="50" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/educational-mission777/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="179" column="0" lean-forward="false" selection-start-line="179" selection-start-column="0" selection-end-line="179" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_site/programs999/lysistrata-staging/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1013">
+          <caret line="140" column="106" lean-forward="false" selection-start-line="140" selection-start-column="106" selection-end-line="140" selection-end-column="106" />
           <folding />
         </state>
       </provider>
