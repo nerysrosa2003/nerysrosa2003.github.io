@@ -6,7 +6,7 @@ sidetxt: comen1
 paypall-id: ZE34FNZFYQ88C
 published: true
 title: coco1 my title 1
-permalink: /programs/lysistrata-feature-film/
+permalink: /programs/dos/
 date: '2014-01-02 11:27:29 -0500'
 date_gmt: '2014-01-02 16:27:29 -0500'
 categories: []

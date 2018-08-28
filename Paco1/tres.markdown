@@ -16,8 +16,8 @@ author_login: admin
 author_email: james@macmillanfilms.com
 author_url: http://macmillanfilms.com
 wordpress_id: 54
-permalink: /programs/lysistrata-staging/
-wordpress_url: http://macmillanfilms.com/newsite/?page_id=54
+permalink: /programs/dos/
+
 date: '2013-08-20 16:43:16 -0400'
 date_gmt: '2013-08-20 20:43:16 -0400'
 categories: []
