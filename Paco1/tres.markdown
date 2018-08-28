@@ -3,7 +3,7 @@ layout: product
 status: publish
 price: 100
 image: https://macmillancdn.appspot.com/wp-content/uploads/2013/08/LYSISTRATAcompSM.jpg
-sidetxt: The complete staging of Aristophanes’ masterpiece is available on DVD - $100.
+sidetxt: comen2
 paypall-id: R5HDRKDH7TNH8
 published: true
 title: coco3 my title 3
