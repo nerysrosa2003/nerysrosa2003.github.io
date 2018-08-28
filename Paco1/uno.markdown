@@ -25,8 +25,8 @@ tags: []
 ---
 este es el video uno
 
-<iframe src="www.youtube.com/watch?v=isMGCBvs8SQ&start_radio=1&list=RDisMGCBvs8SQ?rel=0&amp;modestbranding=1&amp;autohide=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="//www.youtube.com/embed?v=isMGCBvs8SQ&start_radio=1&list=RDisMGCBvs8SQ?rel=0&amp;modestbranding=1&amp;autohide=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ested el video  dos
 
-<iframe src="www.youtube.com/watch?v=isMGCBvs8SQ&start_radio=1&list=RDisMGCBvs8SQ?rel=0&amp;modestbranding=1&amp;autohide=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="//www.youtube.com/embed?v=isMGCBvs8SQ&start_radio=1&list=RDisMGCBvs8SQ?rel=0&amp;modestbranding=1&amp;autohide=1" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
