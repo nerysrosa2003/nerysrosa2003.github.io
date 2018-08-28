@@ -2,7 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/CNAME" afterPath="$PROJECT_DIR$/CNAME" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
+      <change beforePath="$PROJECT_DIR$/image/3DLysistrataDocwithRearSm.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/3DLysistratawithRearSm.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/3DMedeaFrontandBackcropped.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/3DWisdomwithRearSm.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/9PhilosophersBand.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/Cyclops_Greek_Drama_Cast.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/Lysistrata_Staging.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/Lysistrata_Staging_Woman_Meet.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/Medea_Staging_MacMillan_Films_Staring_Olivia_Sutherland.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/buynow.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/dotted-line-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/dotted-line-light-2x.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/dotted-line-light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/image/dotted-line.png" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,31 +31,31 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cropped-TANYA_CLYTEMNESTRA_dark.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/uploads/2017/03/cropped-TANYA_CLYTEMNESTRA_dark.png">
+      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/head.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3DHelenewithRearSm.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/image/3DHelenewithRearSm.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BingSiteAuth.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BingSiteAuth.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -52,16 +67,6 @@
       </file>
       <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="google7c46e4c097a71dd5.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/google7c46e4c097a71dd5.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -114,7 +119,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>888</find>
       <find>DVD Title Selection</find>
       <find>pera pera</find>
       <find>kikopaco2</find>
@@ -130,7 +134,6 @@
       <find>Mission22222</find>
       <find>ntroduction to Western Philoso</find>
       <find>site-title</find>
-      <find>home-link</find>
       <find>990890</find>
       <find>buying options</find>
       <find>purchase</find>
@@ -144,6 +147,8 @@
       <find>macmill</find>
       <find>mac</find>
       <find>educational</find>
+      <find>home-link</find>
+      <find>tanya_cl</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -189,7 +194,6 @@
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_layouts/product.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/Paco1/cua.markdown" />
         <option value="$PROJECT_DIR$/Paco1/dos.markdown" />
         <option value="$PROJECT_DIR$/Paco1/tres.markdown" />
@@ -197,6 +201,7 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/mango.markdown" />
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
       </list>
     </option>
   </component>
@@ -596,14 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Paco1/cua.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -634,11 +631,6 @@
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/3DLysistrataDocwithRearSm.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/image/3DLysistratawithRearSm.jpg">
@@ -697,11 +689,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/image/3DBacchaewithRearSm.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/image/3DHelenewithRearSm.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -772,14 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mango.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -808,6 +787,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/3DLysistrataDocwithRearSm.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/image/3DHelenewithRearSm.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="51" lean-forward="false" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
           <folding />
         </state>
       </provider>
