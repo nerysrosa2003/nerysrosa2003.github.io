@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="" />
+    <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,8 +66,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="779" column="1" lean-forward="false" selection-start-line="779" selection-start-column="1" selection-end-line="779" selection-end-column="1" />
+            <state relative-caret-position="256">
+              <caret line="872" column="0" lean-forward="true" selection-start-line="872" selection-start-column="0" selection-end-line="872" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -115,7 +117,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Mission22222</find>
       <find>ntroduction to Western Philoso</find>
       <find>site-title</find>
       <find>990890</find>
@@ -145,6 +146,7 @@
       <find>nothing a</find>
       <find>&quot;menu-toggle</find>
       <find>site-description</find>
+      <find>navbar</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -189,7 +191,6 @@
         <option value="$PROJECT_DIR$/mango.markdown" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_layouts/product.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_layouts/page.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
@@ -204,6 +205,7 @@
         <option value="$PROJECT_DIR$/Paco3/cin.markdown" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
       </list>
     </option>
   </component>
@@ -784,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="779" column="1" lean-forward="false" selection-start-line="779" selection-start-column="1" selection-end-line="779" selection-end-column="1" />
+        <state relative-caret-position="256">
+          <caret line="872" column="0" lean-forward="true" selection-start-line="872" selection-start-column="0" selection-end-line="872" selection-end-column="0" />
           <folding />
         </state>
       </provider>
