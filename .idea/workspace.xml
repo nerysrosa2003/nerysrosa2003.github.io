@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
+      <change beforePath="$PROJECT_DIR$/mango.markdown" afterPath="$PROJECT_DIR$/mango.markdown" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mango.markdown" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mango.markdown" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mango.markdown">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="51">
+              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -63,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="613">
@@ -117,7 +117,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>macmillan</find>
       <find>wordpress_url</find>
       <find>macmill</find>
       <find>educational</find>
@@ -146,6 +145,7 @@
       <find>22222778</find>
       <find>pon lo quye tu quieras aquiwetrwe</find>
       <find>montro</find>
+      <find>opcoin p la c</find>
       <find>&quot;menu-toggle</find>
     </findStrings>
     <replaceStrings>
@@ -202,10 +202,10 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/Paco1/cua.markdown" />
         <option value="$PROJECT_DIR$/Paco3/cin.markdown" />
-        <option value="$PROJECT_DIR$/mango.markdown" />
         <option value="$PROJECT_DIR$/index.markdown" />
         <option value="$PROJECT_DIR$/pera.markdown" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/mango.markdown" />
       </list>
     </option>
   </component>
@@ -771,18 +771,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mango.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="613">
           <caret line="40" column="137" lean-forward="false" selection-start-line="40" selection-start-column="137" selection-end-line="40" selection-end-column="137" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
