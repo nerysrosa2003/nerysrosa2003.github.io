@@ -36,8 +36,8 @@
       <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="76" lean-forward="false" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+            <state relative-caret-position="613">
+              <caret line="40" column="146" lean-forward="false" selection-start-line="40" selection-start-column="146" selection-end-line="40" selection-end-column="146" />
               <folding />
             </state>
           </provider>
@@ -117,8 +117,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>990890</find>
-      <find>buying options</find>
       <find>purchase</find>
       <find>2222277888</find>
       <find>aside</find>
@@ -147,6 +145,8 @@
       <find>.nav-menu li</find>
       <find>site-description</find>
       <find>nothing</find>
+      <find>epatientindex tr</find>
+      <find>hay papa</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -786,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="76" lean-forward="false" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+        <state relative-caret-position="613">
+          <caret line="40" column="146" lean-forward="false" selection-start-line="40" selection-start-column="146" selection-end-line="40" selection-end-column="146" />
           <folding />
         </state>
       </provider>
