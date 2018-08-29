@@ -2,7 +2,7 @@
 layout: product
 sidetxt: comen1
 title: coco1 my title 1
-permalink: /programs/dos/
+permalink: /pera/dos/
 date: '2014-01-02 11:27:29 -0500'
 date_gmt: '2014-01-02 16:27:29 -0500'
 categories: []

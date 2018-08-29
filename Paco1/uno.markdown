@@ -2,7 +2,7 @@
 layout: product
 sidetxt: comen3
 title: coco3 my title 33333
-permalink: /programs/tres/
+permalink: /pera/tres/
 
 date: '2013-08-20 15:11:10 -0400'
 date_gmt: '2013-08-20 19:11:10 -0400'

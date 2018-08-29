@@ -3,7 +3,7 @@ layout: product
 sidetxt: comen2
 published: true
 title: coco2 my title 2
-permalink: /programs/dos/
+permalink: /pera/dos/
 
 date: '2013-08-20 16:43:16 -0400'
 date_gmt: '2013-08-20 20:43:16 -0400'

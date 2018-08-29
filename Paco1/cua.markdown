@@ -3,7 +3,7 @@ layout: product
 sidetxt: comen3
 published: true
 title: coco3 my title 33333
-permalink: /programs/cua/
+permalink: /pera/cua/
 
 date: '2013-08-20 15:11:10 -0400'
 date_gmt: '2013-08-20 19:11:10 -0400'
