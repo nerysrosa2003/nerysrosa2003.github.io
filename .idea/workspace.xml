@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c83f5819-3e99-46b9-88ee-ce339615614f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Paco1/cua.markdown" afterPath="$PROJECT_DIR$/Paco1/cua.markdown" />
-      <change beforePath="$PROJECT_DIR$/Paco1/dos.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Paco1/tres.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Paco1/uno.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Paco3/cin.markdown" afterPath="$PROJECT_DIR$/Paco3/cin.markdown" />
+      <change beforePath="$PROJECT_DIR$/mango.markdown" afterPath="$PROJECT_DIR$/mango.markdown" />
+      <change beforePath="$PROJECT_DIR$/pera.markdown" afterPath="$PROJECT_DIR$/pera.markdown" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +14,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cin.markdown" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cin.markdown" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Paco3/cin.markdown">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pera.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pera.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mango.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mango.markdown">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -163,7 +179,6 @@
         <option value="$PROJECT_DIR$/_site/programs999/cyclops/index.html" />
         <option value="$PROJECT_DIR$/_site/educational-mission777/index.html" />
         <option value="$PROJECT_DIR$/store.markdown" />
-        <option value="$PROJECT_DIR$/mango.markdown" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/_layouts/product.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
@@ -172,7 +187,6 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/robots.txt" />
-        <option value="$PROJECT_DIR$/pera.markdown" />
         <option value="$PROJECT_DIR$/Paco1/dos.markdown" />
         <option value="$PROJECT_DIR$/Paco1/tres.markdown" />
         <option value="$PROJECT_DIR$/Paco1/uno.markdown" />
@@ -181,6 +195,8 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/Paco1/cua.markdown" />
         <option value="$PROJECT_DIR$/Paco3/cin.markdown" />
+        <option value="$PROJECT_DIR$/mango.markdown" />
+        <option value="$PROJECT_DIR$/pera.markdown" />
       </list>
     </option>
   </component>
@@ -655,22 +671,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mango.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pera.markdown">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="19" lean-forward="false" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.markdown">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -763,6 +763,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mango.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pera.markdown">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
         </state>
       </provider>
