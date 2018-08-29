@@ -1,5 +1,5 @@
 ---
-layout: product
+layout: product2
 sidetxt: comen3
 title: coco5 my title 333335555
 permalink: /pera/cin/
