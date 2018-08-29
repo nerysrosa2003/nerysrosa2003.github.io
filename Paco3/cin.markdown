@@ -1,8 +1,8 @@
 ---
 layout: product2
 sidetxt: comen3
-title: coco5 my title 333335555
-permalink: /pera/cin/
+title: coco5 my title 333335555666
+permalink: /pera2/cin/
 
 date: '2013-08-20 15:11:10 -0400'
 date_gmt: '2013-08-20 19:11:10 -0400'
